@@ -1,6 +1,6 @@
 # RaspberryRust
 ## How to host a Rust server in Raspberry Pi
-### 1.Install Raspberry Pi Os Lite 64 Bit
+### 1.Install Raspberry Pi Os Lite (64 Bit)
 https://www.raspberrypi.com/documentation/computers/getting-started.html#install-an-operating-system
 ### 2.Install x86 Emulator for SteamCMD 
 https://github.com/ptitSeb/box86
